@@ -13,6 +13,7 @@ from keras.models import Sequential, Model
 from keras.layers import Dense, LSTM, Activation, Input
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics import mean_squared_error
+import matplotlib.pyplot as plt
 
 
 df = pd.read_csv(r"C:\Users\kabir\Downloads\MCI_2014_to_2018.csv")

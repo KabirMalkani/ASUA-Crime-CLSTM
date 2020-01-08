@@ -1,0 +1,278 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"sent\tstatement"
+			],
+			[
+				"le",
+				"leaves"
+			],
+			[
+				"a",
+				"append\tfunction"
+			],
+			[
+				"ps_",
+				"ps_tree\tstatement"
+			],
+			[
+				"ps",
+				"ps_str\tparam"
+			],
+			[
+				"is",
+				"isinstance\tfunction"
+			],
+			[
+				"pa",
+				"parser\tstatement"
+			],
+			[
+				"edg",
+				"edge_attrs"
+			],
+			[
+				"node",
+				"node_attrs\tstatement"
+			],
+			[
+				"no",
+				"node_attrs\tstatement"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"root",
+				"root_index\tstatement"
+			],
+			[
+				"anc",
+				"ancestors"
+			],
+			[
+				"e",
+				"edges\tstatement"
+			],
+			[
+				"sent",
+				"sentence\tstatement"
+			],
+			[
+				"pas",
+				"parse"
+			],
+			[
+				"review",
+				"reviewText"
+			],
+			[
+				"it",
+				"items\tfunction"
+			],
+			[
+				"goo",
+				"google_pid\tstatement"
+			],
+			[
+				"googl",
+				"google_url\tstatement"
+			],
+			[
+				"DEF",
+				"DEFAULT_LOCATION\tstatement"
+			],
+			[
+				"inp",
+				"input_values\tstatement"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Build With: python3"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/kabir/Desktop/Amass/amass/pull.py",
+		"/home/kabir/Desktop/Amass/amass/spacygraph.py",
+		"/home/kabir/Desktop/Amass/amass/draw.py",
+		"/home/kabir/Desktop/Amass/amass/rev.py",
+		"/home/kabir/stanford.sh",
+		"/home/kabir/Desktop/Amass/amass/tree.pickle",
+		"/home/kabir/Desktop/Amass/amass/berkely.py",
+		"/home/kabir/Desktop/Amass/amass/graph.html",
+		"/home/kabir/Desktop/Amass/amass/reviewapi.py",
+		"/home/kabir/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/kabir/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/kabir/Desktop/test.py",
+		"/home/kabir/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/kabir/.config/sublime-text-3/Packages/User/python3.sublime-build"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/python3.sublime-build",
+	"project": "model-kab.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 303.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

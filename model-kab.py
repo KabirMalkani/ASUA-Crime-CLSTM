@@ -16,7 +16,7 @@ from sklearn.metrics import mean_squared_error
 import matplotlib.pyplot as plt
 
 
-df = pd.read_csv(r"C:\Users\kabir\Downloads\MCI_2014_to_2018.csv")
+df = pd.read_csv(r"C:\Users\nisha_000\Documents\GitHub\WAIxASUA\MCI_2014_to_2018.csv")
 
 test = df.loc[df["MCI"]=="Theft Over", df.columns[[0, 1, 4]] ] #4 = occurencedate
 test["occurrencedate"] = pd.to_datetime(test["occurrencedate"])#.astype(int)/10**17
